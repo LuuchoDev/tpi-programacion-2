@@ -138,11 +138,3 @@ Al iniciar, el sistema muestra:
 ```
 
 Cada opción abre un submenú con operaciones de listado, creación, edición y eliminación.
-
-## Verificación realizada
-
-1. Crear categoría.
-2. Crear producto asociado a la categoría.
-3. Crear usuario.
-4. Crear pedido con detalle.
-5. Listar pedido y verificar total.
